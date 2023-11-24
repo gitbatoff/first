@@ -40,10 +40,6 @@ def dnsmasq(src, out, remove={'google.com'}):
         for name in domains:
             file.write(f'nftset=/{name}/4#inet#fw4#vpn_domains\n')
 
-    with open(f'{out}-dnsmasq-ipset.lst', 'w') as file:
-        for name in domains:
-            file.write(f'ipset=/{name}/vpn_domains\n')
-
 def clashx(src, out, remove={'google.com'}):
     domains = set()
 
