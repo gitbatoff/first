@@ -6,7 +6,6 @@
 
 - [RAW](https://raw.githubusercontent.com/gitbatoff/first/main/Russia/inside-raw.lst)
 - [Dnsmasq nfset](https://raw.githubusercontent.com/gitbatoff/first/main/Russia/inside-dnsmasq-nfset.lst)
-- [Dnsmasq ipset](https://raw.githubusercontent.com/gitbatoff/first/main/Russia/inside-dnsmasq-ipset.lst)
 - [ClashX](https://raw.githubusercontent.com/gitbatoff/first/main/Russia/inside-clashx.lst)
 
 Как добавить домены в списки?
